@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name: "매니저 곰"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/bear.jpg"
   bio: "I am an comunity manager."
   location: "Somewhere in Korea"
   email:
